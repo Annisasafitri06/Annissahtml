@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.item-1{
+    background-color: yellow;
+    height: 550px;
+    width: 150px;
+    border: solid;
+}
+.item-2{
+    background-color: red;
+    height: 550px;
+    width: 150px;
+    border: solid;
+}
+.item-3{
+    background-color: greenyellow;
+    height: 550px;
+    width: 150px;
+    border: solid;
+}
+.item-4{
+    background-color: aqua;
+    height: 550px;
+    width: 150px;
+    border: solid;
+}
+.item-1{
+    background-color: yellow;
+}
+.item-2{
+    background-color: red;
+}
+.item-3{
+    background-color: greenyellow;
+}
+.item-4{
+    background-color: aqua;
+}
